@@ -1,0 +1,16 @@
+ {
+     "label":
+     {
+         "misc":
+         {
+             "text_horiz_alignment": "left"
+         }
+     },
+    "status_bar":
+     {
+         "colours":
+         {
+             "filled_bar": "#0997d9"
+         }
+     }
+ }
